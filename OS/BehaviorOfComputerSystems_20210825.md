@@ -1,3 +1,5 @@
+[목록](https://github.com/JungInBaek/TIL/blob/main/README.md)
+
 # 컴퓨터 시스템의 동작
 컴퓨터 시스템으로 작업을 처리할 때는 다음 순서에 따라 동작한다.  
 제어장치가 이 동작을 제어한다.

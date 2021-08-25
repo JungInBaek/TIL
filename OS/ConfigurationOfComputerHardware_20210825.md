@@ -1,3 +1,5 @@
+[목록](https://github.com/JungInBaek/TIL/blob/main/README.md)
+
 # 컴퓨터 하드웨어의 구성
 
 - 컴퓨터 시스템은 하드웨어와 소프트웨어로 구성된다.  
