@@ -13,3 +13,7 @@
   - 03 [운영체제의 발전 과정과 유형](https://github.com/JungInBaek/TIL/blob/main/OS/ProgressAndTypesOfOperatingSystems_20210826.md)
   - 04 [운영체제의 서비스](https://github.com/JungInBaek/TIL/blob/main/OS/ServicesInTheOperatingSystem_20210826.md)
   - 05 [운영체제의 구조](https://github.com/JungInBaek/TIL/blob/main/OS/StructureOfTheOperatingSystem_20210826.md)
+
+- Chapter 3. 프로세스와 스레드
+  - 01 [프로세스의 개념과 상태 변화](http://github.com/JungInBaek/TIL/blob/main/OS/ChangesInTheConceptAndStateOfTheProcess_20210828.md)
+  - 02 [프로세스의 관리](http://github.com/JungInBaek/TIL/blob/main/OS/ManaginProcess_20210828.md)
