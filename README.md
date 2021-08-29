@@ -33,6 +33,11 @@
 ## 디자인 패턴
 - 1장. 객체 지향
   - 01 [클래스](http://github.com/JungInBaek/TIL/blob/main/DesignPattern/클래스_20210829.md)
+  - 02 [클래스 상속](http://github.com/JungInBaek/TIL/blob/main/DesignPattern/클래스_상속_20210829.md)
+  - 03 [오버로딩과 오버라이딩](http://github.com/JungInBaek/TIL/blob/main/DesignPattern/오버로딩과_오버라이딩_20210829.md)
+  - 04 [추상클래스](http://github.com/JungInBaek/TIL/blob/main/DesignPattern/추상클래스_20210829.md)
+  - 05 [인터페이스](http://github.com/JungInBaek/TIL/blob/main/DesignPattern/인터페이스_20210829.md)
+  - 06 [인터페이스 구현](http://github.com/JungInBaek/TIL/blob/main/DesignPattern/인터페이스_구현_20210829.md)
 
 
 ## 이펙티브 자바
