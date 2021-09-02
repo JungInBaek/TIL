@@ -39,9 +39,6 @@
   - 05 [인터페이스](http://github.com/JungInBaek/TIL/blob/main/DesignPattern/인터페이스_20210829.md)
   - 06 [인터페이스 구현](http://github.com/JungInBaek/TIL/blob/main/DesignPattern/인터페이스_구현_20210829.md)
 
-- 2장. 객체 지향 설계 원칙
-  - 01 [단일 책임 원칙](http://github.com/JungInBaek/TIL/blob/main/DesignPattern/단일_책임_원칙_20210902.md)
-
 - 2장. 클래스 관계와 UML
   - 01 [상속](http://github.com/JungInBaek/TIL/blob/main/DesignPattern/상속_20210830.md)
   - 02 [구현](http://github.com/JungInBaek/TIL/blob/main/DesignPattern/구현_20210830.md)
@@ -49,6 +46,9 @@
   - 04 [집합](http://github.com/JungInBaek/TIL/blob/main/DesignPattern/집합_20210830.md)
   - 05 [합성](http://github.com/JungInBaek/TIL/blob/main/DesignPattern/합성_20210830.md)
   - 06 [의존](http://github.com/JungInBaek/TIL/blob/main/DesignPattern/의존_20210830.md)
+
+- 3장. 객체 지향 설계 원칙
+  - 01 [단일 책임 원칙](http://github.com/JungInBaek/TIL/blob/main/DesignPattern/단일_책임_원칙_20210902.md)
 
 ## 이펙티브 자바
 - 2장. 객체 생성과 파괴
