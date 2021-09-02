@@ -1,5 +1,5 @@
 @startuml
-'https://plantuml.com/1-1
+'https://plantuml.com/class-diagram
 
 class RectangleShape {
   - x : int
@@ -17,4 +17,5 @@ class RectangleShape {
   + getHeight()
   + setHeight(height : int)
 }
+
 @enduml
