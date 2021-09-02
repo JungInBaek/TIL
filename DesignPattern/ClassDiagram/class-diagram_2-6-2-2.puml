@@ -1,0 +1,14 @@
+@startuml
+EspressoMachine --> CoffeeBeans
+
+class EspressoMachine {
+  - price : int
+  + EspressoMachine()
+  + makeEspresso(coffeBeans : CoffeBeans) : Espresso
+}
+
+class CoffeeBeans {
+  - countryOfOrigin : String
+  + CoffeeBeans()
+}
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+Coffee <-- Espresso
+
+class Coffee {
+  -String name
+  +String getName()
+  +void setName(String name)
+  +void display()
+}
+
+class Espresso
+@enduml

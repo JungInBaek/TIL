@@ -1,0 +1,15 @@
+@startuml
+class Barista {
+  - espressoMachine : EspressoMachine
+  + setEspressoMachine(espressoMachine : EspressoMachine)
+  + makeEspresso() : Espresso
+}
+
+class EspressoMachine {
+  - price : int
+  + EspressoMachine()
+  + makeEspresso() : Espresso
+}
+
+Barista --> EspressoMachine
+@enduml

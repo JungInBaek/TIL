@@ -1,0 +1,15 @@
+@startuml
+interface ICoffee {
+  + getName() : String
+  + setName(name : String)
+  + display()
+}
+
+class Espresso {
+  + getName() : String
+  + setName(name : String)
+  + display()
+}
+
+ICoffee <|.. Espresso
+@enduml

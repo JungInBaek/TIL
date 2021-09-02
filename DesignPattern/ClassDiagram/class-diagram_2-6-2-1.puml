@@ -1,0 +1,14 @@
+@startuml
+Barista --> Espresso
+
+class Barista {
+  - espressoMachine : EspressoMachine
+  + Barista()
+  + setEspressoMachine(espressoMachine : EspressoMachine)
+  + makeEspresso() : Espresso
+}
+
+class Espresso {
+  - name : String
+}
+@enduml

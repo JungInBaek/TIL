@@ -1,0 +1,21 @@
+@startuml
+CafeLatte o-- Espresso
+CafeLatte o-- Milk
+
+class CafeLatte {
+  - name : String
+  - espresso : Espresso
+  - milk : Milk
+  + CafeLatte()
+}
+
+class Espresso {
+  - name : String
+  + Espresso()
+}
+
+class Milk {
+  - name : String
+  + Milk()
+}
+@enduml
