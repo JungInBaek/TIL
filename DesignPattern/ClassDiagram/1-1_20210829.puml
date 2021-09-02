@@ -1,0 +1,20 @@
+@startuml
+'https://plantuml.com/1-1
+
+class RectangleShape {
+  - x : int
+  - y : int
+  - width : int
+  - height : int
+  + RectangleShape()
+  + RectangleShape(x : int, y : int, width : int, height : int)
+  + getX()
+  + setX(x : int)
+  + getY()
+  + setY(y : int)
+  + getWidth()
+  + setWidth(width : int)
+  + getHeight()
+  + setHeight(height : int)
+}
+@enduml
