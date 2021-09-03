@@ -49,6 +49,7 @@
 
 - 3장. 객체 지향 설계 원칙
   - 01 [단일 책임 원칙](http://github.com/JungInBaek/TIL/blob/main/DesignPattern/단일_책임_원칙_20210902.md)
+  - 02 [개방 폐쇄 원칙](http://github.com/JungInBaek/TIL/blob/main/DesignPattern/개방_폐쇄_원칙_20210903.md)
 
 ## 이펙티브 자바
 - 2장. 객체 생성과 파괴

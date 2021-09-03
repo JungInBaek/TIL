@@ -1,0 +1,24 @@
+@startuml
+Calculator o-- AddOperation
+Calculator o-- SubstractOperation
+Calculator o-- MultiplyOperation
+
+class Calculator {
+  - addOperation : AddOperation
+  - substractOperation : SubstractOperation
+  - multiplyOperation : MultiplyOperation
+  + calculate(operation : String, firstNumber : int, secondNumber : int) : int
+}
+
+class AddOperation {
+  + operate() : int
+}
+
+class SubstractOperation {
+  + operate() : int
+}
+
+class MultiplyOperation {
+  + operate() : int
+}
+@enduml

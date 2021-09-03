@@ -1,0 +1,31 @@
+@startuml
+Calculator o-- AbstractOperation
+AbstractOperation <|-- AddOperation
+AbstractOperation <|-- SubstractOperation
+AbstractOperation <|-- MultiplyOperation
+AbstractOperation <|-- DivideOperation
+
+class Calculator {
+  + calculate(firstNumber : int, secondNumber : int) : int
+}
+
+abstract class AbstractOperation {
+  + operate(firstNumber : int, secondNumber : int) : int
+}
+
+class AddOperation {
+  + operate(firstNumber : int, secondNumber : int) : int
+}
+
+class SubstractOperation {
+  + operate(firstNumber : int, secondNumber : int) : int
+}
+
+class MultiplyOperation {
+  + operate(firstNumber : int, secondNumber : int) : int
+}
+
+class DivideOperation {
+  + operate(firstNumber : int, secondNumber : int) : int
+}
+@enduml

@@ -1,0 +1,6 @@
+@startuml
+class Calculator {
+  + Calculator()
+  + calculate(operator : String, firstNumber : int, secondNumber : int)
+}
+@enduml
