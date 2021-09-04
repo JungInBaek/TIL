@@ -1,5 +1,5 @@
 @startuml
-Coffee <-- Espresso
+Coffee <|-- Espresso
 
 class Coffee {
   -String name
