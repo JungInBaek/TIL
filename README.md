@@ -12,6 +12,15 @@
   - 1-5. [이름 해결을 담당하는 DNS](https://github.com/JungInBaek/TIL/blob/main/HTTP/이름_해결을_담당하는_DNS_20210829.md)
   - 1-6. [URI와 URL](https://github.com/JungInBaek/TIL/blob/main/HTTP/URI와_URL_20210829.md)
 
+- 2장. 간단한 프로토콜 HTTP
+  - 2-1. [HTTP는 클라이언트와 서버 간에 통신을 한다.](https://github.com/JungInBaek/TIL/blob/main/HTTP/HTTP는_클라이언트와_서버_간에_통신을_한다_20210904.md)
+  - 2-2. [리퀘스트와 리스폰스를 교환하여 성립](https://github.com/JungInBaek/TIL/blob/main/HTTP/리퀘스트와_리스폰스를_교환하여_성립_20210904.md)
+  - 2-3. [HTTP는 상태를 유지하지 않는 프로토콜](https://github.com/JungInBaek/TIL/blob/main/HTTP/HTTP는_상태를_유지하지_않는_프로토콜_20210905.md)
+  - 2-4. [리퀘스트 URI로 리소스를 식별](https://github.com/JungInBaek/TIL/blob/main/HTTP/리퀘스트_URI로_리소스를_식별_20210905.md)
+  - 2-5. [서버에 임무를 부여하는 HTTP 메소드](https://github.com/JungInBaek/TIL/blob/main/HTTP/서버에_임무를_부여하는_HTTP_메소드_20210905.md)
+  - 2-6. [메소드를 사용해서 지시를 내리다](https://github.com/JungInBaek/TIL/blob/main/HTTP/메소드를_사용해서_지시를_내리다_20210905.md)
+  - 2-7. [지속 연결로 접속량을 절약](https://github.com/JungInBaek/TIL/blob/main/HTTP/지속_연결로_접속량을_절약_20210905.md)
+  - 2-8. [쿠키를 사용한 상태 관리](https://github.com/JungInBaek/TIL/blob/main/HTTP/쿠키를_사용한_상태_관리_20210905.md)
 
 ## 운영체제 
 - Chapter 1. 컴퓨터 시스템의 소개
