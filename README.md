@@ -60,6 +60,7 @@
   - 01 [단일 책임 원칙](http://github.com/JungInBaek/TIL/blob/main/DesignPattern/단일_책임_원칙_20210902.md)
   - 02 [개방 폐쇄 원칙](http://github.com/JungInBaek/TIL/blob/main/DesignPattern/개방_폐쇄_원칙_20210903.md)
   - 03 [리스코프 치환 원칙](http://github.com/JungInBaek/TIL/blob/main/DesignPattern/리스코프_치환_원칙_20210904.md)
+  - 04 [인터페이스 분리 원칙](http://github.com/JungInBaek/TIL/blob/main/DesignPattern/인터페이스_분리_원칙_20210906.md)
 
 ## 이펙티브 자바
 - 2장. 객체 생성과 파괴
