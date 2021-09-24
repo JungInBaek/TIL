@@ -40,6 +40,9 @@
   - 03 [스레드의 개념과 상태 변화](http://github.com/JungInBaek/TIL/blob/main/OS/스레드의_개념과_상태_변화_20210923.md)
   - 04 [스레드의 구현](http://github.com/JungInBaek/TIL/blob/main/OS/스레드의_구현_20210923.md)
 
+- Chapter 4. 병행 프로세스와 상호배제
+  - 01 [병행 프로세스](http://github.com/JungInBaek/TIL/blob/main/OS/병행_프로세스_20210924.md)
+
 
 ## 디자인 패턴
 - 1장. 객체 지향
