@@ -42,6 +42,7 @@
 
 - Chapter 4. 병행 프로세스와 상호배제
   - 01 [병행 프로세스](http://github.com/JungInBaek/TIL/blob/main/OS/병행_프로세스_20210924.md)
+  - 02 [상호배제와 동기화](http://github.com/JungInBaek/TIL/blob/main/OS/상호배제와_동기화_20210926.md)
 
 
 ## 디자인 패턴
